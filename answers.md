@@ -13,6 +13,14 @@
 - 23: same as port 22 but unencrypted 
 - 25: sending mail
 
+## traceroute
+- 19 hops
+- charter
+- yes: about 5 hops
+- first ip: 138.197.248.14 new york city, new york, united states
+- middle ip: 129.250.3.51 new york city, new york, united states
+- last ip: 62.115.125.128 atlanta, georgia, united states
+
 
 
 
